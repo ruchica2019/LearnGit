@@ -1,0 +1,7 @@
+public class MyFirstProgramme{
+<<<<<<< HEAD
+	public static void main(String args[]){}
+=======
+	private String myVariable = null;
+>>>>>>> 88e0190efd596d9a8590561404f1eeab9bbb67fc
+}
